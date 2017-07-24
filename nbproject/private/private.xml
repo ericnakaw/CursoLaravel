@@ -3,8 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/curso/composer.json</file>
-            <file>file:/C:/xampp/htdocs/curso/.env</file>
+            <file>file:/C:/xampp/htdocs/curso/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/curso/app/Repositories/ClientRepositoryEloquent.php</file>
+            <file>file:/C:/xampp/htdocs/curso/app/Http/Controllers/ClientController.php</file>
+            <file>file:/C:/xampp/htdocs/curso/app/Repositories/ClientRepository.php</file>
+            <file>file:/C:/xampp/htdocs/curso/config/repository.php</file>
+            <file>file:/C:/xampp/htdocs/curso/app/Providers/CodeProjectRepositoryProvider.php</file>
         </group>
     </open-files>
 </project-private>
